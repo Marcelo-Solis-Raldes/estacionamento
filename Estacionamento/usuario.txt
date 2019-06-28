@@ -1,0 +1,3 @@
+joao@gmail.com,caf1a3dfb505ffed0d024130f58c5cfa,administrador
+pedro@gmail.com,202cb962ac59075b964b07152d234b70,funcionario
+marcelo@gmail.com,81dc9bdb52d04dc20036dbd8313ed055,administrador
